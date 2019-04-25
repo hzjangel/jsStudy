@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/jsStudy',
+    base: '/jsStudy/',
     title: 'js学习',
     description: 'js学习笔记',
     head: [
