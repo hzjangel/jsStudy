@@ -1,0 +1,5 @@
+# 依赖文件
+/node_modules
+
+# 编译后的文件
+/docs/.vuepress/dist
