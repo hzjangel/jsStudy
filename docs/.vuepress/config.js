@@ -26,18 +26,18 @@ module.exports = {
                 ]
             },
             {
-                title: '变量、作用域和内存问题',
+                title: '基本类型',
                 collapsable: false,
                 children: [
-                    '变量、作用域和内存问题/基本类型和引用类型'
+                    'variableAndRAMProblem/basicTypeAndReferenceType'
                 ]
             },
             {
                 title: '引用类型',
                 collapsable: false,
                 children: [
-                    '引用类型/Object类型',
-                    '引用类型/Array类型'
+                    'referenceType/ObjectType',
+                    'referenceType/ArrayType'
                 ]
             }
         ]
