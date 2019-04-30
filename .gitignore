@@ -5,6 +5,7 @@
 
 # 编译后的文件
 /docs/.vuepress/dist
+/src
 
 引用
 
