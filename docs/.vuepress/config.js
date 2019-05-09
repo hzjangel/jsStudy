@@ -37,7 +37,9 @@ module.exports = {
                 collapsable: false,
                 children: [
                     'referenceType/ObjectType',
-                    'referenceType/ArrayType'
+                    'referenceType/ArrayType',
+                    'referenceType/dateType',
+                    'referenceType/regExpType'
                 ]
             }
         ]
