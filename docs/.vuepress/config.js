@@ -39,7 +39,8 @@ module.exports = {
                     'referenceType/ObjectType',
                     'referenceType/ArrayType',
                     'referenceType/dateType',
-                    'referenceType/regExpType'
+                    'referenceType/regExpType',
+                    'referenceType/functionType'
                 ]
             }
         ]
