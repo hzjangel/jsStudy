@@ -38,15 +38,7 @@ module.exports = {
                     'referenceType/ArrayType',
                     'referenceType/dateType',
                     'referenceType/regExpType',
-                    'referenceType/functionType',
-                    'referenceType/basePackingType'
-                ]
-            },
-            {
-                title: '函数表达式',
-                collapsable: true,
-                cildren: [
-                    'functionExpression/'
+                    'referenceType/functionType'
                 ]
             },
             {
@@ -78,7 +70,6 @@ module.exports = {
                 title: 'DOM',
                 collapsable: true,
                 children: [
-                    'dom/获取元素的高度',
                     'dom/事件委派',
                     'dom/事件的传播'
                 ]
